@@ -68,3 +68,4 @@ function loadTableData() {
         addEntry(user.name, user.email, user.password, user.dob, user.termsAccepted);
     });
 }
+
